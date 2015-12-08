@@ -1,0 +1,28 @@
+name: lukesitalsingh
+favicon: null
+layout_spectrum: 0.6873917893972248
+typography_spectrum: 0.5403209528885782
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.3442787791136652
+  lightness: 0.9744187470059842
+  saturation: 0.5083891579415649
+  rhythmicContrast: 0.8459834023378789
+purpose: []
