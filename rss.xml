@@ -4,21 +4,14 @@
         <description><![CDATA[LUKE SITAL-SINGH]]></description>
         <link>https://thegrid.ai/lukesitalsingh/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Dec 2015 17:09:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Dec 2015 17:15:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lukesitalsingh/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[coffee]]></title>
-            <description><![CDATA[<article><h1>coffee</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/379704138ac0dd1e66337a14c018572fa295b320.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>coffee</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/febc3fa646cd39a626344b1d0ff903aaea7bc760.jpg"></article>]]></description>
             <link>https://thegrid.ai/lukesitalsingh/coffee/index.html</link>
             <guid isPermaLink="false">8fb32311-bc2b-4b23-8e04-c49dd9961e1d</guid>
             <pubDate>Sun, 13 Dec 2015 17:09:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>https://thegrid.ai/lukesitalsingh/getting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">a0bc8313-facf-4ce3-86a4-8303e11a90b3</guid>
-            <pubDate>Sun, 13 Dec 2015 15:43:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
