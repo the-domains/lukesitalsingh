@@ -1,7 +1,7 @@
 name: lukesitalsingh
 favicon: null
-layout_spectrum: 0.255
-typography_spectrum: 0.51252
+layout_spectrum: 0.51543
+typography_spectrum: 0.18531
 title: LUKE SITAL-SINGH
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#363636'
-    - '#649db1'
-    - '#b2af4e'
-    - '#040301'
-  brandStrength: 0.3442787791136652
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.75
+    - '#16271f'
+    - '#bda687'
+    - '#ac3133'
+    - '#f9f8f6'
+    - '#6d4f33'
+  brandStrength: 0.9375
+  lightness: 0.625
+  saturation: 0.3125
+  rhythmicContrast: 0.25
 purpose: []
